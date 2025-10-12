@@ -4,7 +4,7 @@
 web3==6.12.0
 
 # For making HTTP requests, used by the HealthMonitor to report status
-requests==2.31.0
+requests==2.31.1
 
 # For loading configuration from a .env file to keep secrets out of the code
 python-dotenv==1.0.1
