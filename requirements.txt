@@ -1,7 +1,7 @@
 # Gainer Project Requirements
 
 # Core library for interacting with Ethereum-like blockchains
-web3==6.12.1
+web3==6.12.0
 
 # For making HTTP requests, used by the HealthMonitor to report status
 requests==2.31.1
