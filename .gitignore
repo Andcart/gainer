@@ -2,8 +2,10 @@
 __pycache__/
 .venv/
 .vscode/
+.idea/
 build/
 dist/
 *.egg-info/
 .pytest_cache/
+.env
 ```
